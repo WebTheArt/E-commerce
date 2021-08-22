@@ -47,6 +47,7 @@ a{
     display: block;
     color: black;
     font-size: 18px;
+    transition: .4s;
 }
 .menu ul li a:hover{
     color: white;
